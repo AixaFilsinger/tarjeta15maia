@@ -57,7 +57,7 @@ const Varios = () => {
                 className="btn-varios mt-3 mb-5"
                 onClick={() =>
                   window.open(
-                    "https://maps.app.goo.gl/5Avh1ejqbVa9iP316?g_st=aw"
+                    "https://maps.app.goo.gl/qBEWLp6ANWXYVQcb6"
                   )
                 }
               >
